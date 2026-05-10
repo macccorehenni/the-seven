@@ -81,4 +81,6 @@ Flynn, perhaps forgetting their brother was a magnet for drama, said, "Well, we'
 Azul joined the three, as did Kalilia. 
 
 "Those sigils are a bit dim, though." Azul frowned.
-They left the roomm, compelled by Flynn 
+They left the room, compelled by Flynn's movement. The rest of the group followed them, slowly attracting the other members. They eventually ended up at the hallway where Amaraia and Tansei sat outside their quiet room. 
+
+Flynn paused, deep in thought. "Did you guys hear anything out here overnight?" 
