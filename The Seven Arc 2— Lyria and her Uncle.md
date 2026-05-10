@@ -89,4 +89,8 @@ Amaria gently shook her head. "Nope, except the hum of the sigils. Why?" As she 
 
 "Lyria's missing, and she's not in a good place."
 
-Tansei shuddered, just as much as a reaction he gave to Flynn's comment as a reaction of the symbiote he harbored within himsself. 
+Tansei shuddered, just as much as a reaction he gave to Flynn's comment as a reaction of the symbiote he harbored within himsself.
+
+"What do you mean, she's missing, Flynn?"
+
+Tansei looked away, fully aware of what the dusk kitsune meant. 
