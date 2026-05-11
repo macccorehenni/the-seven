@@ -1,5 +1,3 @@
-
-
 # Prolouge— A mysterious figure
 The castle was asleep, something which was rare to behold. Its walls were quiet, satisfaction at the day bleeding into comfort at night. The sigils which lined its walls, which gave it powers only those who knew the queen would understand, were quietly glowing. 
 
@@ -95,3 +93,4 @@ Tansei shuddered, just as much as a reaction he gave to Flynn's comment as a rea
 "What do you mean, she's missing, Flynn?"
 
 Tansei looked away, fully aware of what the dusk kitsune meant. He felt pain like what she had to endure too, and he realized that she was probaly feeling it _now_ too. 
+a
