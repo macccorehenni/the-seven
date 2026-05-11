@@ -126,7 +126,7 @@ Tannila turned to Tol. "You're an expert at this kinda talk, Tol."
 
 "So to the ōkami lands then?" Thaylenea, her long hair flowing like poison, its colors pink to green, frowned. She made it a point to dislike the ancestral lands of the wolves, as it felt wrong. None of the Seven realized this, but she was kept busy often by them. Too many turnings, her realm. She sighed, but continued. "That is surely where she is if Ampor— Lyria's uncle— took her. Which it is highly likely she was taken by him. Think of it. No trips of the castle's security. Azulm, that was not built for resonance?"
 
-Azul nodded. "And if Ampor took her, he could mask it from us all, and more importantly my wards for the castle, but creating tat bubble."
+Azul nodded. "And if Ampor took her, he could mask it from us all, and more importantly my wards for the castle, but creating that bubble."
 
 Thaylenea smiled. "Yes, and he could have masked _her_ from us too."
 

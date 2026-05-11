@@ -169,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -176,12 +177,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "color-cycler:Cycle accent color": false,
       "word-frequency:Show word frequency sidebar": false
     }
   },
   "active": "d42274af84bf26d6",
   "lastOpenFiles": [
+    "/The Seven Arc 2— Lyria and her Uncle.md",
     "Fonts/BookerlyDisplay_Bd.ttf",
     "Fonts/AmazonEmber_LtIt.ttf",
     "Fonts/AmazonEmber_Bd.ttf",
@@ -191,7 +192,6 @@
     "Fonts/Amazon-Ember-MediumItalic.ttf",
     "Fonts/AmazonEmber_ThIt.ttf",
     "Fonts/AmazonEmber_RgIt.ttf",
-    "Fonts/AmazonEmber_Rg.ttf",
-    "Fonts/AmazonEmber_BdIt.ttf"
+    "Fonts/AmazonEmber_Rg.ttf"
   ]
 }
