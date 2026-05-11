@@ -1,4 +1,3 @@
-gg
 
 # Prolouge— A mysterious figure
 The castle was asleep, something which was rare to behold. Its walls were quiet, satisfaction at the day bleeding into comfort at night. The sigils which lined its walls, which gave it powers only those who knew the queen would understand, were quietly glowing. 

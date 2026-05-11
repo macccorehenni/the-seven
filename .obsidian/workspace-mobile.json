@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "711bf8e54cea0baa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d76ea174e23a2ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d42274af84bf26d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Seven Arc 2— Lyria and her Uncle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Seven Arc 2— Lyria and her Uncle"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "389011ec5ee7ad31",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a23a1966cf44abbe",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "7d54fa870a3d9002",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "af69339ee0e872c5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "b8ab1a37506934ce",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "83bdbceca7444352",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6565325517bd5e75",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d339e0587e767ebc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "The Seven Arc 2— Lyria and her Uncle.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "89f2e93003db0a90",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "The Seven Arc 2— Lyria and her Uncle.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "c6d9c88cdcf6e282",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "The Seven Arc 2— Lyria and her Uncle.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "bae16265fece8746",
+        "type": "leaf",
+        "state": {
+          "type": "word-frequency-view",
+          "state": {},
+          "icon": "file-chart-column-increasing",
+          "title": "Word frequency"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "color-cycler:Cycle accent color": false,
+      "word-frequency:Show word frequency sidebar": false
+    }
+  },
+  "active": "d42274af84bf26d6",
+  "lastOpenFiles": [
+    "Fonts/BookerlyDisplay_Bd.ttf",
+    "Fonts/AmazonEmber_LtIt.ttf",
+    "Fonts/AmazonEmber_Bd.ttf",
+    "Fonts/AmazonEmber_Th.ttf",
+    "Fonts/Amazon-Ember-Medium.ttf",
+    "Fonts/AmazonEmber_He.ttf",
+    "Fonts/Amazon-Ember-MediumItalic.ttf",
+    "Fonts/AmazonEmber_ThIt.ttf",
+    "Fonts/AmazonEmber_RgIt.ttf",
+    "Fonts/AmazonEmber_Rg.ttf",
+    "Fonts/AmazonEmber_BdIt.ttf"
+  ]
+}
