@@ -105,5 +105,29 @@ Flynn asked, "How?"
 
 "By following her resonance." Her dress, despite being simple and thin, still fit her shape closely enough to make her shape flattering but no closer. Its mauve color complemented her dusk–purple and silver tails, her face markings glowing with the dawn lights. Her eyes shone red, not the type of red that harbored danger, but inviting, her hair gracefully framing them with a long braid on the left.
 Scout nods, already in movement. 
+
 "Scout, pause for a moment. If there's one thing that Chaileth and Vulpinterra have taught me, it's preperation works wonders. Where do we think she went? Who do we think she was with? Why was she with?"
-"Pr
+
+"The sigils are still intact." Flynn touched the dimmed sigil they were leaning on, and grimiced as it reacted to their touch, not quite glowing right without one of its key axis. 
+
+Azul frowned. "I'm sure the security I planted here, plus the guards, would have picked up any intruders. So they, whoever it was, knows how to get around wards like that."
+
+Armani noddded. "Okay, so that's one hint, and I'd think a crucial one."
+
+"Wait– didn't Lyria grow up around an … not entirely safe household? Like, she got turned into a shadow or something?" Amaria was one of the last members of the Seven to join the family aside from Tanilia, and this question was more out of confusion more than anything else. 
+
+Ina nodded. "Right, but her father came to Duskterra and apologized, and it definietly seemed advantageous to him to apologize, if he didn't truly mean it. So it most likely _isn't_ him. But then… who is it?"
+
+Dawnbreak, in its parrot form, paused preening its red feathers to remark, "The one we call the Puppeteer had a brother. Not much is known about him, but one thing that has reached the immortal strands about the Puppeteer's brother is he has strong powers. While always the inferior brother— which perhaps indicates why no one, even the immortal, know much of him— it is said that he carries the ability to entrap any resonance he comes upon."
+
+Tannila turned to Tol. "You're an expert at this kinda talk, Tol."
+
+"My understanding is that what this _brother_ can do— is essentially erase his own resonance… Wait… I think Dawnbreak wanted us to figure out that… oh, fuck." Tol's neon glow that lined her silver metal skin on her right side of her face dimmed. She had just realized what had happened.
+
+"So to the ōkami lands then?" Thaylenea, her long hair flowing like poison, its colors pink to green, frowned. She made it a point to dislike the ancestral lands of the wolves, as it felt wrong. None of the Seven realized this, but she was kept busy often by them. Too many turnings, her realm. She sighed, but continued. "That is surely where she is if Ampor— Lyria's uncle— took her. Which it is highly likely she was taken by him. Think of it. No trips of the castle's security. Azulm, that was not built for resonance?"
+
+Azul nodded. "And if Ampor took her, he could mask it from us all, and more importantly my wards for the castle, but creating tat bubble."
+
+Thaylenea smiled. "Yes, and he could have masked _her_ from us too."
+
+Dawnbreak said, "So, yes, in short, to the ōkami lands."
