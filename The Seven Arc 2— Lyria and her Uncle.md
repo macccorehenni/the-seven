@@ -97,10 +97,13 @@ Tansei looked away, fully aware of what the dusk kitsune meant. He felt pain lik
 
 But Tansei managed to keep his composure, and asked, "What now?"
 
-"Simple." The unmistakable voice of the Queen of Vulpinterra rang out through the corridor as she entered. She was wearing her sleeveless dress she often used as sleepwear.
+"Simple." The unmistakable voice of the Queen of Vulpinterra, Armani, rang out through the corridor as she entered. She was wearing her sleeveless dress she often used as sleepwear.
 
 "We follow her."
 
 Flynn asked, "How?" 
 
-"By following her resonance." Her dress, despite being simple and 
+"By following her resonance." Her dress, despite being simple and thin, still fit her shape closely enough to make her shape flattering but no closer. Its mauve color complemented her dusk–purple and silver tails, her face markings glowing with the dawn lights. Her eyes shone red, not the type of red that harbored danger, but inviting, her hair gracefully framing them with a long braid on the left.
+Scout nods, already in movement. 
+"Scout, pause for a moment. If there's one thing that Chaileth and Vulpinterra have taught me, it's preperation works wonders. Where do we think she went? Who do we think she was with? Why was she with?"
+"Pr
