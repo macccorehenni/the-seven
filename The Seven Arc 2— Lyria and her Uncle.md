@@ -28,7 +28,7 @@ All the lights flickered off, and a mysterious yet familiar figure appeared, its
 
 The voice chilled Lyria. It sounded like her father's, which she had come to terms with hearing after he made up for what he had done. But this voice didn't sound like his. It sounded cruder, almost as if hewn out of the stone surrounding Duskterra, not like Lyria's voice, a child of becoming, like bells ringing. 
 
-But tonight, her voice was fragile, like she was once again a shadow. In this figures presence, she felt weak. She mentally cried out for help, but nobody could hear her. She felt this in her body, and her resonance felt off. The whole evening into the night, she had felt hopeless… something she hadn't felt for over a decade as she grew with her found family. 
+But tonight, her voice was fragile, like she was once again a shadow. In this figure's presence, she felt weak. She mentally cried out for help, but nobody could hear her. She felt this in her body, and her resonance felt off. The whole evening into the night, she had felt hopeless… something she hadn't felt for over a decade as she grew with her found family. 
 
 She shuddered as the shadow moved closer to her. 
 
@@ -124,10 +124,83 @@ Tannila turned to Tol. "You're an expert at this kinda talk, Tol."
 
 "My understanding is that what this _brother_ can do— is essentially erase his own resonance… Wait… I think Dawnbreak wanted us to figure out that… oh, fuck." Tol's neon glow that lined her silver metal skin on her right side of her face dimmed. She had just realized what had happened.
 
-"So to the ōkami lands then?" Thaylenea, her long hair flowing like poison, its colors pink to green, frowned. She made it a point to dislike the ancestral lands of the wolves, as it felt wrong. None of the Seven realized this, but she was kept busy often by them. Too many turnings, her realm. She sighed, but continued. "That is surely where she is if Ampor— Lyria's uncle— took her. Which it is highly likely she was taken by him. Think of it. No trips of the castle's security. Azulm, that was not built for resonance?"
+"So to the ōkami lands then?" Thaylena, her long hair flowing like poison, its colors pink to green, frowned. She made it a point to dislike the ancestral lands of the wolves, as it felt wrong. None of the Seven realized this, but she was kept busy often by them. Too many turnings. She sighed, but continued. "That is surely where she is if Ampor— Lyria's uncle— took her. Which it is highly likely she was taken by him. Think of it. No trips of the castle's security. Azulm, that was not built for resonance?"
 
 Azul nodded. "And if Ampor took her, he could mask it from us all, and more importantly my wards for the castle, but creating that bubble."
 
 Thaylenea smiled. "Yes, and he could have masked _her_ from us too."
 
 Dawnbreak said, "So, yes, in short, to the ōkami lands."
+
+Thus the Seven and their axes left Duskterra for the ōkami lands, and soon another would join, one who intimately knew those lands. But for now they were all together, Lyria's family finding and saving her. And that is all that matters to them. 
+# Chapter 2— Atero
+It was a sunny day on the island of Harboredge. Situated as the crown jewel of a chain of islands in the Danaéan Realms, Harboredge often caught a lot of sun, and the trees on the Wilds Ridge that separated the north part of the island from its metropolis capital, Arret Town, helped focus that sun. 
+
+In a small cottage on the eastern side of the ridge, facing west to catch the morning sun, was a young woman, sixteen. She had long blue hair she often restrained with a wrap, her fox ears long, with red tufts sprouting from them as if her ears were dirt. 
+
+The ōkami–kitsune was reading the Harboredge Digest, going through the Outer Ethryian bulletin, which included Vulpinterra, just to catch up with the news of her homeland, when she read the cryptic bulletin:
+```
+Duskterra, Vulpinterra (Inter-news)
+Vulpinterran queen Armani rumored to have left Duskterra for the Ōkami lands. Those who observed the departure early this morning noted the Seven, her "children", joined her as well. Of note was the absence of Lyria, the youngest of the Seven. 
+```
+
+The mention of Lyria always managed to bring a smile to Atero's face. They had been friends before she disappeared, her father taking her… somewhere. She later realized once the Seven had saved her that Lyria had gone through the same things her parents had. 
+
+It was horrible what they went through, the way they were tortured, and yet she couldn't have helped. Her parents turned into shadows, a figment of what they once were. Eventually, they disappeared, even darkness not wanting to illuminate their small form. Atero never saw them again. 
+
+As she reminisced about her and Lyria's childhood, a sudden thought crossed her mind. She remembered a monstrous figure— not Lyria's father, he would never have made an impression on young Atero. It was Ampor, who was always terrifying to her. He often scared both Lyria and her, pushing his face up against theirs. A sickening realization flashed her mind. What if she was a shadow again?
+
+She reached out to Lyria's resonance— no response. She jolted out of her chair, her brown and red tail stiffening as she ran to her fortune telling shop not too far from her cottage and slapped a hastily written sign on the door saying she would not have the shop open until further notice. 
+
+She sped-walked to the portal hall and entered the portal labeled "DUSKTERRA". She emerged in a empty castle, but she knew the best way to not trip Azul's sigils. If she wanted to rob the place she could. But that was not her intent, and she soon emerged onto the main path of Duskterra. She found the guardhouse, a cabin on the south edge of the town. Atero could feel that Lyria had been here, or a facsimile of her in any case. She knocked on the door and heard a rasp of wood on stone.
+
+"Yes?" Boots clanked against the floor of the guardhouse as a scrawny guard opened the door— one Atero knew was still acclimatizing to his role, as he had taken her in after her last failed attempt to , doing _all_ the procedures incorrectly.
+
+
+"Which direction did Queen Armani go?"
+
+Short, simple and to the point. Atero knew she was not going to catch the Queen by standing around. So, no mincing words. 
+
+"She went east. The rumors are that she is heading to the ōkami lands' castle town to save Lyria, though…"
+
+He smiled, taking a moment to survey Atero, recognition creeping over his face from their interactions . "… you didn't hear that from me, Atero. Go save your sister. And stay safe. " 
+
+Atero nodded and turned away to leave, but not before the scrawny guard threw out a written note:
+```
+They went up the main Ōkami Lands trail, to the northeast. It's not marked, beacuse… well you know, but it's heavily guarded, what with the Queen and her family going up that way. You'll see my friend Asten outside the gate, plant girl, wearing earmuffs. Take her with you. Tell her she owes Aven one. 
+```
+Atero nodded at Aven, who bowed his head in response. 
+
+--- 
+Asten was sleeping when Atero approached. 
+"Hey. Asten."
+Asten startled awake, her leaf-like hair bouncing as she jolted. 
+"Who— wait, you're the Castle Bandit. I need to—"
+Atero ignored her blustering. "Aven told me to tell you that you owe him one. So…"
+Asten's chlorophyll–tinged skin turned deeper green— Atero assumed that it was her equivalent of blushing. Poor thing must have had a crush on Aven. 
+
+"Okay, okay, what do I need to do then?" Without waiting for an answer, Asten stood, revealing her tall, slender legs, each with a long, green shoot running down them, her hair scrunching up in protest. 
+
+"Join me. We're going into the ōkami lands." Atero started walking. 
+
+Asten shook her head in emphatic dissent, terror in her eyes. 
+
+"No, no, no, that place—" Atero turned and frowned, looking at the young woman. She was wearing a simple guardswoman outfit. She had a brown-colored bodice with extra padding, to which Asten had added some mossy touches to make feel more like her. Over the top of her shoulders was a light set of shoulder pads like the ones they wore in football or Skystrike, protecting her arms from damage, the same moss creeping down its inner edges. Finishing the outfit off were her earmuffs, gold and spiky, mimicking the shape of her lower jaw. Atero lost her patience and started aggressively swiping her tail. 
+
+"Look, Aven and you… you must be a pretty good guard for him to reccomend you."
+
+Asten's head shook even more violently as she denied this assertion, which just provided more proof that she liked him. Atero decided to use this to her advantage. 
+
+"Well, he'll like that you help me out."
+
+Asten froze. Atero swore she could see the blood— or sap, rather— continue to darken under her skin. 
+
+"Fine. But know it's only for him, nothing else."
+
+Atero smiled, a huff barely escaping her mouth, her version of a laugh. 
+
+"Well, let's go find the Queen, shall we, Asten?"
+
+A rustle sounded as Asten relaxed, determination crossing her face. Her sprouts straightened as she snapped to attention. 
+
+"I don't know why you've gone to attention. Formalities like that just… irritate me." Atero moved towards the east— towards 
