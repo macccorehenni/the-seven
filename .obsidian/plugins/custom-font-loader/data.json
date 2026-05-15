@@ -1,7 +1,7 @@
 {
   "font_folder": "Fonts/",
-  "font": "AmazonEmber_Rg.ttf",
+  "font": "all",
   "force_mode": false,
-  "custom_css_mode": false,
-  "custom_css": "/* Example CSS for your font: amazonember_lt */\n\n/* Apply to all text */\n:root * {\n\t--font-default: 'amazonember_lt';\n\t--default-font: 'amazonember_lt';\n\t--font-family-editor: 'amazonember_lt';\n\t--font-interface-override: 'amazonember_lt';\n\t--font-text-override: 'amazonember_lt';\n}\n\n/* Example: Apply to custom CSS class */\n.custom-font * {\n\tfont-family: 'amazonember_lt' !important;\n}\n\n/* Example: Apply to specific elements only */\n.custom-font h1, .custom-font h2, .custom-font h3 {\n\tfont-family: 'amazonember_lt' !important;\n}"
+  "custom_css_mode": true,
+  "custom_css": "/* === MOBILE: UI + BODY TEXT → snpro.ttf === */\n\nbody.is-mobile,\nbody.is-mobile .app-container,\nbody.is-mobile .workspace,\nbody.is-mobile .workspace-split,\nbody.is-mobile .workspace-leaf,\nbody.is-mobile .view-content,\nbody.is-mobile .markdown-source-view .cm-scroller,\nbody.is-mobile .markdown-source-view .cm-content,\nbody.is-mobile .markdown-preview-view,\nbody.is-mobile button,\nbody.is-mobile input,\nbody.is-mobile textarea,\nbody.is-mobile select,\nbody.is-mobile .nav-file-title,\nbody.is-mobile .nav-folder-title,\nbody.is-mobile .status-bar,\nbody.is-mobile .modal,\nbody.is-mobile .menu {\n  font-family: snpro, system-ui, -apple-system, sans-serif !important;\n}\n\n/* === MOBILE: HEADERS → bookerlydisplay_bd.ttf === */\n\nbody.is-mobile h1,\nbody.is-mobile h2,\nbody.is-mobile h3,\nbody.is-mobile h4,\nbody.is-mobile h5,\nbody.is-mobile h6 {\n  font-family: bookerlydisplay_bd, serif !important;\n}\n"
 }

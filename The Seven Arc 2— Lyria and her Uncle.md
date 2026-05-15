@@ -203,4 +203,12 @@ Atero smiled, a huff barely escaping her mouth, her version of a laugh.
 
 A rustle sounded as Asten relaxed, determination crossing her face. Her sprouts straightened as she snapped to attention. 
 
-"I don't know why you've gone to attention. Formalities like that just… irritate me." Atero moved towards the east— towards 
+"I don't know why you've gone to attention. Formalities like that just… irritate me." Atero moved towards the east— towards the trail to the Ōkami lands. 
+
+Asten followed, her body rustling as she walked. She stopped every so often to check a tree, complaining about the corruption twisting its roots and its complaints about such. She moved with the affect of a young woman who cared about plants, having became one herself. She really didn't want to move with any urgency. She wanted to save all the plants from the torture the corruption that they harbored. 
+
+"Asten. We have to keep moving. We're saving Lyria, remember?"
+
+"Right, right. It's just… I feel pain from these guys. They are hurting…"
+
+Atero paused briefly to look at Asten. Her face had 

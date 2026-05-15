@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d76ea174e23a2ad",
+        "id": "21398029b3744835",
         "type": "tabs",
         "children": [
           {
-            "id": "d42274af84bf26d6",
+            "id": "e5e0b81e1eebf442",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,11 +177,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "word-frequency:Show word frequency sidebar": false
+      "word-frequency:Show word frequency sidebar": false,
+      "css-editor:Open CSS editor quick switcher": false
     }
   },
-  "active": "d42274af84bf26d6",
+  "active": "e5e0b81e1eebf442",
   "lastOpenFiles": [
+    "The Seven Arc 2— Lyria and her Uncle.md",
     "/The Seven Arc 2— Lyria and her Uncle.md",
     "Fonts/BookerlyDisplay_Bd.ttf",
     "Fonts/AmazonEmber_LtIt.ttf",

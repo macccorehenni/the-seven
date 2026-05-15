@@ -1,6 +1,6 @@
 {
   "Appearance-light@@theme-light-style-select": "theme-light-background-old-default",
-  "Appearance-light@@card-layout-open-light": false,
+  "Appearance-light@@card-layout-open-light": true,
   "Appearance-light@@accent-light": "#A3A591",
   "Appearance-light@@accent-color-override-light": true,
   "Appearance-light@@color-red-rgb@@light": "#AF3029",
@@ -49,5 +49,8 @@
   "Appearance-dark@@accent-dark": "#A224BC",
   "Appearance-dark@@accent-color-override-dark": true,
   "Editor@@collapse-icon-restore": true,
-  "Editor@@inline-title-font": "Bookerly-Display-Bd"
+  "Editor@@h1-font": "Bookerly_Display_Bd",
+  "Editor@@text-align-justify": false,
+  "Editor@@h1-divider-on": true,
+  "Editor@@inline-title-font": "amazonember_rg"
 }

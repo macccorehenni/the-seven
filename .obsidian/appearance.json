@@ -1,3 +1,7 @@
 {
-  "cssTheme": "Border"
+  "cssTheme": "Border",
+  "enabledCssSnippets": [
+    "headings",
+    "Example"
+  ]
 }

@@ -2,5 +2,7 @@
   "custom-font-loader",
   "obsidian-style-settings",
   "word-frequency",
-  "obsidian-git"
+  "obsidian-git",
+  "remember-cursor-position",
+  "css-editor"
 ]
