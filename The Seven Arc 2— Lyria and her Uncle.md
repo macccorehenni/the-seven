@@ -214,14 +214,21 @@ Asten followed, her body rustling as she walked. She stopped every so often to c
 Atero paused briefly to look at Asten. Her face had sunk into a deep frown, her compassion for her fellow plants quite evident. Or was it something else? Atero in any case couldn't tell, but they had to keep moving in any case. Lyria was not safe. 
 
 ---
-"Someone's following us." Flynn was the first to feel their presence. They and the rest of the Seven were still an hour or so away from where Aspen and Atero were, but their pull was big enough that they could feel the fox and ōkami nearby. Ameria could also feel them as well, and she managed a knowing glance at Flynn.
+"Someone's following us." Flynn was the first to feel their presence. 
 
-"Whoever they are, they aren't… _hostile_." Amaria and Flynn both nodded.
+They could feel it in their bones. What had been stillness in the corrupted forest had bloomed into a sort of resolve, a linked thread approching the Seven. Flynn felt their energy, conviction blooming through their chest. They could feel their linked destinies together, and that gave Flynn hope.
 
-"That much I know to be true. They feel like… they want to help us… should we tell Aunt Armani about them?"
+Flynn and the rest of the Seven were still an hour or so away from where Aspen and Atero were, but their pull was big enough that they could feel the plant girl and ōkami nearby. Ameria could also feel them as well, and she looked at her little sibling, a look of shared resonance 
 
-Amaria shook her head, convicted that her assertion that the two approching souls— she knew there were two, the emotional resonance was too big for one— were peaceful was correct. 
+"Whoever they are, they aren't… _hostile_." Amaria and Flynn both nodded as Flynn's mantle rippled in quiet thought.
 
+"That much I know to be true. They feel like… they want to help us… they want to help _Lyria_…  should we tell Aunt Armani about them?"
+
+Amaria shook her head, convicted that her assertion that the two approching souls— she knew there were two, the emotional resonance was too big for one.
 "Let's wait for a it, let them get closer."
 
-:
+"Who do you think they are? Is this just another trick from Lyria's uncle? Or do they _really_ want to help?" Scout had reason to be careful. After all, the way Lyria's uncle had just _kidnapped_ Lyria.
+
+"There's two." Amaria's eyes glossed over, prompting Tansei to move closer to her side on instinct as she observed Atero walking through the forest, her fox ears stiff with intent, Aspen trailing behind her by a few feet fussing over some plants. 
+
+"One seems to want to protect Lyria. Why, I cannot determine. The other… wants to protect _her_."
