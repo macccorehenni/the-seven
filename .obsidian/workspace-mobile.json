@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "21398029b3744835",
+        "id": "622ff9548cb849b5",
         "type": "tabs",
         "children": [
           {
-            "id": "e5e0b81e1eebf442",
+            "id": "799c83e6be2046ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Seven Arc 2— Lyria and her Uncle.md",
+                "file": "Rewrite ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Seven Arc 2— Lyria and her Uncle"
+              "title": "Rewrite ideas"
+            }
+          },
+          {
+            "id": "13b790310864a23e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rewrite ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rewrite ideas"
             }
           }
         ]
@@ -145,7 +159,6 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "The Seven Arc 2— Lyria and her Uncle.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -163,9 +176,19 @@
           "icon": "file-chart-column-increasing",
           "title": "Word frequency"
         }
+      },
+      {
+        "id": "44f46a5936df34f1",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 2
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,9 +204,11 @@
       "css-editor:Open CSS editor quick switcher": false
     }
   },
-  "active": "e5e0b81e1eebf442",
+  "active": "a23a1966cf44abbe",
   "lastOpenFiles": [
     "The Seven Arc 2— Lyria and her Uncle.md",
+    "Rewrite ideas.md",
+    "conflict-files-obsidian-git.md",
     "/The Seven Arc 2— Lyria and her Uncle.md",
     "Fonts/BookerlyDisplay_Bd.ttf",
     "Fonts/AmazonEmber_LtIt.ttf",

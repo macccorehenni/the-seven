@@ -1,1 +1,6 @@
-{}
+{
+  "mobileToolbarCommands": [
+    "editor:toggle-italics",
+    "command-palette:open"
+  ]
+}

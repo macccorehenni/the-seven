@@ -229,6 +229,10 @@ Amaria shook her head, convicted that her assertion that the two approching soul
 
 "Who do you think they are? Is this just another trick from Lyria's uncle? Or do they _really_ want to help?" Scout had reason to be careful. After all, the way Lyria's uncle had just _kidnapped_ Lyria.
 
-"There's two." Amaria's eyes glossed over, prompting Tansei to move closer to her side on instinct as she observed Atero walking through the forest, her fox ears stiff with intent, Aspen trailing behind her by a few feet fussing over some plants. 
+"There's two." Amaria's eyes glossed over, prompting Tansei to move closer to her side on instinct as she observed Atero walking through the forest, her fox ears stiff with intent, Aspen trailing behind her by a few feet fussing over some plants. They both were moving with intent, and both at a pace. Most importantly to Amaria and her usamagi instincts, they were moving towards them in the corrupted ōkami lands. 
 
 "One seems to want to protect Lyria. Why, I cannot determine. The other… wants to protect _her_."
+
+Flynn understood immediately. They were the only one who Lyria shared her past with, the only one she felt truly comfortable enough to *let go* around. They knew there was an ōkami–kitsune Lyria spent some time with before she was… abducted… by her father. And they had seen Aspen before, but assumed it was just a trick the guards pulled on a daily basis. 
+
+But, as Flynn thought more, 
