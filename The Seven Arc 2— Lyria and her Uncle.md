@@ -235,4 +235,11 @@ Amaria shook her head, convicted that her assertion that the two approching soul
 
 Flynn understood immediately. They were the only one who Lyria shared her past with, the only one she felt truly comfortable enough to *let go* around. They knew there was an ōkami–kitsune Lyria spent some time with before she was… abducted… by her father. And they had seen Aspen before, but assumed it was just a trick the guards pulled on a daily basis. 
 
-But, as Flynn thought more, 
+But, as Flynn thought more, they realized that they were not only real, but approaching at a quick pace. They felt _comfort_ instead of dread. These two felt like they meant something to each other and Lyria. They were _excited_ to meet them. They smiled as Amaria leaned on Tansei, whose symbiote–laden body also had began to feel their resonance. The missing puzzle piece was set to fall in place, and the Seven awaited for it. 
+
+---
+They had been walking for the most of eight hours when Armani stopped everyone with a single, her long, vulpine ears perked up and her two tails stiff with caution. Despite the forest being silent, something was off about it. Even the forest, with the crooked hum it often carried, was seemingly… quiet, as if expecting something to change. 
+
+"Someone is here."
+
+Scout had his rapier out before Armani could finish her sentence, its tip pointed towards the treeline. Azul dropped to her heels with the calculating, robotic sense of hers. Tanilia's spark wove through her fingers, her anxiety just as visible as her readiness. And 
